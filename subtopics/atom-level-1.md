@@ -14,3 +14,6 @@ Protons and neutrons are found in the nucleus of the atom. The number of protons
 
 In more technical terms:
 The proton's sovereignty over the atom's identity is not accidental; it is a consequence of thermodynamic stability. While the electron cloud is a negotiable and dynamic environment—where particles can be given up, gained, or shared to form bonds—the nucleus is a static fortress. Protected by the strong nuclear force and stabilized by the presence of neutrons (which act as mediators in the face of electrical repulsion), protons define the atomic number ($Z$). Because the energy required to alter the nucleus is orders of magnitude greater than conventional chemical energy, the proton becomes the constant that defines the element. The electron proposes the reaction, but the proton determines the identity.
+
+## Electron
+The electron is a negatively charged particle with less mass and a smaller radius than the proton. Unlike the particles in the nucleus, the electron is not composed of other particles; it is a fundamental subatomic particle. The electron configuration defines the reactivity of the element, that is, the propensity of the element to form bonds with other elements. 
