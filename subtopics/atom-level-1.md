@@ -37,3 +37,6 @@ Democritus' idea was fundamental, comparing them all, perhaps Democritus' idea i
 But at the same time, the idea of *being* continues to function: the change in materials and their characteristics is due to the atom in a vacuum. but, thinking of the atom as an indivisible and eternal piece, as something that is never destroyed but rather organized, in the end everything remains the same. Trees, rocks, and soil are made of the same eternal atoms that have always existed, and even if the rock is destroyed and the tree dies, their atoms will continue to exist and will organize themselves differently to form new materials.
 
 ```The only things that exist are atoms and empty space; everything else is opinion.```
+ 
+Taking a historic leap forward in the early 19th century, John Dalton realized that, in the laboratory, elements always changed in whole number proportions, 1 part of A to 2 parts of B, but never 1.45 parts.
+
