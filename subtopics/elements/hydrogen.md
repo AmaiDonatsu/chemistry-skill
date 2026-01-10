@@ -24,3 +24,10 @@ This reaction is easily achieved in the laboratory by reacting a metal such as a
 | $4 \to 2$ | $H_\beta$ | $486.1 \text{ nm}$ | $616.7 \text{ THz}$ | Cyan / Turquoise | `#00FBFF` |
 | $5 \to 2$ | $H_\gamma$ | $434.1 \text{ nm}$ | $690.6 \text{ THz}$ | Purple | `#4300FF` |
 | $6 \to 2$ | $H_\delta$ | $410.2 \text{ nm}$ | $730.8 \text{ THz}$ | Violet | `#7E00FF` |
+
+
+### Properties
+The hydrogen atom is the lightest and simplest atom, consisting of a single electron orbiting a proton. It is the most stable and well-known form of hydrogen, called protium. 
+However, there are other types of stable hydrogen where what changes is the composition of the atomic nucleus, specifically the number of neutrons it has, which we know as isotopes. The second most stable isotope of hydrogen is deuterium, where there is also a neutron in the nucleus. There are many deuterium compounds, such as deuterated water or heavy water, which has two deuterium atoms instead of two protium atoms.
+The third most common isotope is tritium, with two neutrons in the nucleus. It is less stable and will attempt to return to stability by decaying, which is known as a radioactive isotope.
+It is speculated that deuterium and tritium will be the fuels for future nuclear reactors, nuclear fusion reactors, which promise to create clean energy by fusing deuterium and tritium, as occurs in stars, producing helium as a waste product.
