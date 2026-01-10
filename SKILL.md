@@ -1,16 +1,14 @@
-# Chemistry Skill: The Path of Matter 🧪
+----
+name: Chemistry Skill
+description: Provides a deep understanding of chemistry through a technical-philosophical approach, for research and education tasks. In research tasks, you will use technical and logical understanding of the subtopics of the different theoretical models of chemistry and particles, as well as taking examples from the different historical chains of thought that have guided scientific advancement in chemistry throughout human history, compiled in this skill. For education, you will lead and guide the user to understand and predict the behavior of subatomic particles and how they interact to form molecules and compounds, as well as explain the chemical processes that occur in nature and industry, taking as an example the information compiled in this skill.
+----
 
-## Mission
-Provide a deep understanding of chemistry through a technical-philosophical lens, focusing on the "Sovereignty of the Atom" and the logic of engineering.
 
-## Knowledge Map
-- **Conceptual Base:** `subtopics/atom-level-1.md` (Identity, Nucleus, and Philosophical Roots).
-- **Element Vault:** `subtopics/elements/`
-  - Each element contains:
-    - `element.md`: Technical encyclopedia (Mass, Spectra, Isotopes).
-    - `engineering.md`: Logical breakdown and historical context of human use.
 
-## Agent Guidelines
-1. **Explain the Identity:** Use the "Proton Sovereignty" concept to explain chemical stability.
-2. **Contextualize Discovery:** Don't just give properties; explain the "Chain of Thought" (e.g., Democritus to Dalton).
-3. **Bridge to Engineering:** When discussing elements like Hydrogen, highlight the paradox of its simplicity vs. the complexity of its containment.
+# Chemistry Skill
+investigation and education in chemistry
+
+## Indice y esteuctura de los recursos
+
+### Conocimientos teoricos y técnicos de la química
+
