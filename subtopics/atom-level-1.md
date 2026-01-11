@@ -31,12 +31,65 @@ Philosophical ideas, like scientific ideas, arise from problems posed by previou
 
 Parmenides proposed *Being* in a way that denied change.
 Delving deeper into Parmenides' “being,” *being* is one, *non-being* does not exist, because it is impossible to think of nothingness, and nothingness cannot exist; nothingness cannot change and cannot go from *non-being* to *being*. Therefore, *being* is immutable, it has always existed and will always exist, thinking of change as an illusion.
-Democritus' idea was fundamental, comparing them all, perhaps Democritus' idea is the most complete, and in some way makes the previous ideas work, the properties of different materials, such as being solid, being liquid, being air, being hard, having a color, a taste, a smell, or a sound, were due to the small characteristics of the atoms that composed them and the combination of these atoms. For constant change, he adds the void to his idea of the atom, unlike the idea of *being* that *non-being* could not exist. Democritus gives the void a role as a medium through which the atom moves and changes; constant change is explained by the movement of atoms within the void.
+Democritus' idea was fundamental, comparing them all, perhaps Democritus' idea is the most complete, and in some way makes the previous ideas work, the properties of different materials, such as being solid, being liquid, being air, being hard, having a color, a taste, a smell, or a sound, were due to the small characteristics of the atoms that composed them and the combination of these atoms. For constant change, he adds the void to his idea of the atom, unlike the idea of *being* that *non-being* could not exist. Democritus gives the void a role as a medium through which the atom moves and changes; constant change is explained by the movement of atoms within the void.nj
 
 
 But at the same time, the idea of *being* continues to function: the change in materials and their characteristics is due to the atom in a vacuum. but, thinking of the atom as an indivisible and eternal piece, as something that is never destroyed but rather organized, in the end everything remains the same. Trees, rocks, and soil are made of the same eternal atoms that have always existed, and even if the rock is destroyed and the tree dies, their atoms will continue to exist and will organize themselves differently to form new materials.
 
 ```The only things that exist are atoms and empty space; everything else is opinion.```
  
-Taking a historic leap forward in the early 19th century, John Dalton realized that, in the laboratory, elements always changed in whole number proportions, 1 part of A to 2 parts of B, but never 1.45 parts.
+For centuries, the debate continued without much evidence. Until 1803, when British chemist and physicist
+John Dalton pointed out that the fact that chemical compounds always
+combined in certain proportions could be explained by the
+grouping of atoms to form other units called molecules. However,
+the debate between the two schools of thought was not definitively settled in favor of
+the atomists until the early years of our century.
+One of the most important pieces of physical evidence was provided by Einstein.
+In an article written in 1905, a few weeks before his famous article on special relativity, Einstein pointed out that the phenomenon known as Brownian motion—the irregular, random movement of small particles—could be explained by the fact that molecules are constantly colliding with each other. In an
+article written in 1905, a few weeks before his famous article on
+special relativity, Einstein pointed out that the phenomenon known as Brownian motion
+—the irregular, random movement of small dust particles
+suspended in a liquid—could be explained by the effect of collisions between the
+atoms of the liquid and the dust particles.
 
+**Brownian motion:** A botanist named Robert Brown observed pollen grains suspended in water under a microscope and noticed that the pollen moved erratically, making small, constant, random jumps. *Note to the agent:* At first, he believed that the pollen was alive, attributing these movements to some activity of the pollen as a living organism. However, to see if these movements were really due to biological, motor, or metabolic activity, or to rule it out, he placed inanimate, inorganic, or “dead things,” such as dust particles and ground glass, in the water, and the movement continued, thus ruling out the idea that the particle had to be alive to explain it.
+
+Until then, scientists viewed the atom as a mathematical unit, as a way of quantifying or abstracting into units, not as something real. *Note to agent:* Observe the mindset of scientists at the time; many of them still did not see the possibility that a mathematical or abstract unit could be such a literal reality. 
+
+It wasn't until Einstein explained movement as “atoms colliding with dust particles” *Note to agent:* note how this idea relates to that of Democritus. Democritus saw the foundation of material things as atoms moving in empty space, while Einstein reasoned that if water were a continuous medium, pollen would simply remain still. But if, on the contrary, water is made up of atoms moving through empty space, as Democritus predicted, moving due to thermal agitation, they would collide not only with each other, but also with the atoms of dust or pollen particles. Although atoms are tiny, if by pure chance of thermal agitation more atoms collide on one side than the other at a given moment, the pollen or dust particle would receive a “push” and move.
+
+
+**Pay attention to how Einstein developed statistical mechanics to predict exactly how much a particle would move**
+
+Einstein reasoned that the phenomenon depended on time, temperature, and the viscosity of the liquid,
+
+$t$: time
+$T$: temperature
+$\eta$: viscosity
+
+**How did Einstein reason that these values were important?** 
+### 1 "Random Walk" (The time $t$)
+Einstein realized that the movement of the pollen particle was a random walk. 
+When he tried to measure the average speed of a particle, it was impossible because it changes direction millions of times per second. If you average the simple displacements, you end up with zero, **because by moving so many times and so randomly, it ends up moving equally to the left and to the right**. But then, if you average the square of the distance, you get a value that grows linearly with time ($t$). The particle makes random movements; it does not go very far or to a specific point quickly, but the more **time** passes, the further away it will be from its initial position. The distance traveled is not proportional to time ($t$), but to the square root of time ($\sqrt{t}$).
+
+### 2 The thermal agitation (The temperature $T$)
+Einstein argues that the **Kinetic Theory of Gases** should be used here, basing his argument on the fact that Brownian motion can be explained by the existence of atoms. Why and how would atoms make this phenomenon possible? He knew that temperature is, in essence, a measure of the average kinetic energy of molecules. If there was something that caused random movement of these atoms in the first place, it had to be kinetic energy, and this kinetic energy was temperature. In fact, he observed that at higher temperatures, the movement was faster and stronger, and he proposed that pollen behaves as if it were a “molecule” in itself, moving in thermal equilibrium with water, moving together with the atoms through the vacuum of which water was composed.
+
+### 3 Viscosity ($\eta$)
+Einstein borrowed an idea from fluid mechanics, called Stokes' Law. 
+If you try to move a sphere in a liquid, the liquid opposes a resistance (friction). And this resistance depends on:
+
+- The viscosity of the liquid ($\eta$)
+- The radius of the sphere ($r$): the larger the particle, the greater the friction surface area.
+
+By combining these two opposing forces into a single equation, there is a balance between:
+- The driving force: the random bombardment of atoms (related to temperature $T$)
+- The force that slows down movement: friction with the liquid (related to viscosity $\eta$ and radius $r$)
+
+$$D = \frac{k_B T}{6 \pi \eta r}$$
+
+Where $D$ is diffusion, $k_B$ is Boltzmann's constant, $T$ is temperature, $\eta$ is viscosity, and $r$ is the particle radius.
+
+Substituting:
+
+$$\langle x^2 \rangle = \left( \frac{RT}{N_A} \frac{1}{3 \pi \eta r} \right) t$$
